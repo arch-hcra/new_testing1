@@ -1,2 +1,6 @@
 pytest
 flask
+<<<<<<< HEAD
+psycopg2
+=======
+>>>>>>> 1d01826091ea83b6ccd87d93f60857f4f7b17414
